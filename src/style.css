@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "NationalBold";
+  src: url(".//National2-Bold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  background: url("./icon.png");
+  font-family: "NationalBold";
+}
